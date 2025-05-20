@@ -1,3 +1,5 @@
 # Assalamu Alaikum
 
-![Mojnu Introduction](/images/my-intro.png)
+<p align="center">
+  <img src="/images/my-intro.png" alt="Mojnu Introduction" width="300" height="auto" />
+</p>
