@@ -1,4 +1,4 @@
-# Assalamu Alaikum
+
 
 <p align="center">
   <samp>
@@ -9,8 +9,4 @@
     <a href="https://www.linkedin.com/in/mojnu0/">linkedin</a> .
     <a href="https://www.facebook.com/Mojnu0/">facebook</a>
   </samp>
-</p>
-
-<p align="center">
-  <img src="/images/my-intro.png" alt="Mojnu Introduction" width="600" height="auto" />
 </p>
