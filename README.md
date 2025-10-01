@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://moj-nu.web.app/">me</a> .
+    <a href="https://react-bangla.vercel.app/my-resume">me</a> .
     <a href="https://react-bangla.vercel.app/">blog</a> .
     <a href="https://react-bangla.vercel.app/lws-project/lws-project-3-movie-portal/before-start-coding">projects</a> .
     <a href="https://www.youtube.com/@md.mojnumiah">youtube</a> .
